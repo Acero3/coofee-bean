@@ -39,7 +39,7 @@ p, li, td, th {
 /* header section */
 
 .nav {
-  border: 4px solid red;
+  /* border: 4px solid red; */
   width: 85%;
   margin: 1em auto;
   overflow: auto;
@@ -78,7 +78,7 @@ p, li, td, th {
 
 /* banner section 2 */
 .banner {
-  border: 4px solid red;
+  /* border: 4px solid red; */
   height: 670px;
   width: 100%;
   background-image: url(../img/banner-bg.jpg);
@@ -89,7 +89,7 @@ p, li, td, th {
 }
 
 .banner-text {
-  border: 2px dashed yellow;
+  /* border: 2px dashed yellow; */
   /* parent is position: relative */
   position: absolute;
   top: 50%;
@@ -122,7 +122,7 @@ p, li, td, th {
 
 /* (3) Ads area */
 .ads {
-  border: 2px dashed rgb(0, 255, 85);
+  /* border: 2px dashed rgb(0, 255, 85); */
   width: 85%;
   margin: 4em auto;
   overflow: auto;
@@ -130,7 +130,7 @@ p, li, td, th {
 }
 
 .ads-items {
-  border: 2px dashed rgb(73, 185, 123);
+  /* border: 2px dashed rgb(73, 185, 123); */
   width: 48.5%;
   float: left;
   height: 350px; 
@@ -295,7 +295,7 @@ p, li, td, th {
 
 /* Reservation Form */
 .reservation {
-  border: 2px dashed black;
+  /* border: 2px dashed black; */
   /* background: brown; */
   width: 85%;
   margin: 4em auto;
@@ -437,7 +437,7 @@ form input[type="submit"] {
 }
 
 .social-widget {
-  border: 2px dashed rgb(162, 182, 255); 
+  /* border: 2px dashed rgb(162, 182, 255);  */
   width: 32.66%;
   float: left;
   text-align: center;
